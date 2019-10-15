@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Review_overview</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="name">
+
+        <item>Toylet</item>
+        <item>Food Quality</item>
+        <item>PGA service </item>
+        <item>Hygienic/cleanliness</item>
+    </string-array>
+</resources>
